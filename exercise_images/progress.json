@@ -1,0 +1,142 @@
+{
+  "id_1": {
+    "status": "done",
+    "file": "01_Barbell_Bench_Press.jpg",
+    "query": "Barbell Bench Press"
+  },
+  "id_2": {
+    "status": "done",
+    "file": "02_Dumbbell_Bench_Press.jpg",
+    "query": "Dumbbell Bench Press"
+  },
+  "id_3": {
+    "status": "done",
+    "file": "03_Incline_Barbell_Bench_Press.jpg",
+    "query": "Incline Barbell Bench Press"
+  },
+  "id_4": {
+    "status": "done",
+    "file": "04_Chest_Fly.jpg",
+    "query": "Chest Fly"
+  },
+  "id_5": {
+    "status": "done",
+    "file": "05_Push_ups.jpg",
+    "query": "Push-ups"
+  },
+  "id_6": {
+    "status": "done",
+    "file": "06_Deadlift.jpg",
+    "query": "Deadlift"
+  },
+  "id_7": {
+    "status": "done",
+    "file": "07_Barbell_Row.jpg",
+    "query": "Barbell Row"
+  },
+  "id_8": {
+    "status": "done",
+    "file": "08_Pull_ups.jpg",
+    "query": "Pull-ups"
+  },
+  "id_9": {
+    "status": "done",
+    "file": "09_Lat_Pulldown.jpg",
+    "query": "Lat Pulldown"
+  },
+  "id_10": {
+    "status": "done",
+    "file": "10_Dumbbell_Row.jpg",
+    "query": "Dumbbell Row"
+  },
+  "id_11": {
+    "status": "done",
+    "file": "11_Overhead_Press.jpg",
+    "query": "Overhead Press"
+  },
+  "id_12": {
+    "status": "done",
+    "file": "12_Dumbbell_Shoulder_Press.jpg",
+    "query": "Dumbbell Shoulder Press"
+  },
+  "id_13": {
+    "status": "done",
+    "file": "13_Lateral_Raise.jpg",
+    "query": "Lateral Raise"
+  },
+  "id_14": {
+    "status": "done",
+    "file": "14_Front_Raise.jpg",
+    "query": "Front Raise"
+  },
+  "id_15": {
+    "status": "done",
+    "file": "15_Barbell_Curl.jpg",
+    "query": "Barbell Curl"
+  },
+  "id_16": {
+    "status": "done",
+    "file": "16_Dumbbell_Curl.jpg",
+    "query": "Dumbbell Curl"
+  },
+  "id_17": {
+    "status": "done",
+    "file": "17_Tricep_Pushdown.jpg",
+    "query": "Tricep Pushdown"
+  },
+  "id_18": {
+    "status": "done",
+    "file": "18_Skull_Crushers.jpg",
+    "query": "Skull Crushers"
+  },
+  "id_19": {
+    "status": "done",
+    "file": "19_Dips.jpg",
+    "query": "Dips"
+  },
+  "id_20": {
+    "status": "done",
+    "file": "20_Barbell_Squat.jpg",
+    "query": "Barbell Squat"
+  },
+  "id_21": {
+    "status": "done",
+    "file": "21_Leg_Press.jpg",
+    "query": "Leg Press"
+  },
+  "id_22": {
+    "status": "done",
+    "file": "22_Romanian_Deadlift.png",
+    "query": "Romanian Deadlift"
+  },
+  "id_23": {
+    "status": "done",
+    "file": "23_Leg_Extension.jpg",
+    "query": "Leg Extension"
+  },
+  "id_24": {
+    "status": "done",
+    "file": "24_Leg_Curl.jpg",
+    "query": "Leg Curl"
+  },
+  "id_25": {
+    "status": "done",
+    "file": "25_Calf_Raise.jpg",
+    "query": "Calf Raise"
+  },
+  "id_26": {
+    "status": "done",
+    "file": "26_Plank.jpg",
+    "query": "Plank"
+  },
+  "id_27": {
+    "status": "done",
+    "file": "27_Crunches.jpg",
+    "query": "Crunches"
+  },
+  "id_28": {
+    "status": "done",
+    "file": "28_Russian_Twists.png",
+    "query": "Russian Twists"
+  }
+}

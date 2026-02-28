@@ -1,0 +1,297 @@
+{
+  "id_1": {
+    "status": "done",
+    "file": "01_Barbell.jpg",
+    "query": "Barbell"
+  },
+  "id_2": {
+    "status": "done",
+    "file": "02_Dumbbells.png",
+    "query": "Dumbbells"
+  },
+  "id_3": {
+    "status": "done",
+    "file": "03_Kettlebell.jpg",
+    "query": "Kettlebell"
+  },
+  "id_4": {
+    "status": "done",
+    "file": "04_EZ_Curl_Bar.jpg",
+    "query": "EZ Curl Bar"
+  },
+  "id_5": {
+    "status": "done",
+    "file": "05_Weight_Bench.jpg",
+    "query": "Weight Bench"
+  },
+  "id_6": {
+    "status": "done",
+    "file": "06_EZ_Curl_Bar_Rack.jpg",
+    "query": "EZ Curl Bar Rack"
+  },
+  "id_7": {
+    "status": "done",
+    "file": "07_Olympic_Lifting_Platform.jpg",
+    "query": "Olympic Lifting Platform"
+  },
+  "id_8": {
+    "status": "done",
+    "file": "08_Free_Weight_Area_gym.jpg",
+    "query": "Free Weight Area gym"
+  },
+  "id_9": {
+    "status": "done",
+    "file": "09_Cable_Machine_gym.jpg",
+    "query": "Cable Machine gym"
+  },
+  "id_10": {
+    "status": "done",
+    "file": "10_Cable_Crossover_Machine.jpg",
+    "query": "Cable Crossover Machine"
+  },
+  "id_11": {
+    "status": "done",
+    "file": "11_Cable_Chest_Fly_Machine.jpg",
+    "query": "Cable Chest Fly Machine"
+  },
+  "id_12": {
+    "status": "done",
+    "file": "12_Chest_Press_Machine.jpg",
+    "query": "Chest Press Machine"
+  },
+  "id_13": {
+    "status": "done",
+    "file": "13_Incline_Chest_Press_Machine.jpg",
+    "query": "Incline Chest Press Machine"
+  },
+  "id_14": {
+    "status": "done",
+    "file": "14_Pec_Fly_Machine.jpg",
+    "query": "Pec Fly Machine"
+  },
+  "id_15": {
+    "status": "done",
+    "file": "15_Pec_Deck_Fly_Machine.jpg",
+    "query": "Pec Deck Fly Machine"
+  },
+  "id_16": {
+    "status": "done",
+    "file": "16_Incline_Barbell_Bench_Press_Station.jpg",
+    "query": "Incline Barbell Bench Press Station"
+  },
+  "id_17": {
+    "status": "done",
+    "file": "17_Flat_Barbell_Bench_Press_Station.jpg",
+    "query": "Flat Barbell Bench Press Station"
+  },
+  "id_18": {
+    "status": "done",
+    "file": "18_Lat_Pulldown_Machine.jpg",
+    "query": "Lat Pulldown Machine"
+  },
+  "id_19": {
+    "status": "done",
+    "file": "19_Rowing_Machine_gym.jpg",
+    "query": "Rowing Machine gym"
+  },
+  "id_20": {
+    "status": "done",
+    "file": "20_Seated_Row_Machine.jpg",
+    "query": "Seated Row Machine"
+  },
+  "id_21": {
+    "status": "done",
+    "file": "21_Lat_Pull_Machine.jpg",
+    "query": "Lat Pull Machine"
+  },
+  "id_22": {
+    "status": "done",
+    "file": "22_Dual_Lat_Machine.jpg",
+    "query": "Dual Lat Machine"
+  },
+  "id_23": {
+    "status": "done",
+    "file": "23_Seated_Cable_Row_Machine.jpg",
+    "query": "Seated Cable Row Machine"
+  },
+  "id_24": {
+    "status": "done",
+    "file": "24_Shoulder_Press_Machine.jpg",
+    "query": "Shoulder Press Machine"
+  },
+  "id_25": {
+    "status": "done",
+    "file": "25_Lateral_Raise_Machine.jpg",
+    "query": "Lateral Raise Machine"
+  },
+  "id_26": {
+    "status": "done",
+    "file": "26_Seated_Shoulder_Press_Machine.jpg",
+    "query": "Seated Shoulder Press Machine"
+  },
+  "id_27": {
+    "status": "done",
+    "file": "27_Preacher_Curl_Machine.jpg",
+    "query": "Preacher Curl Machine"
+  },
+  "id_28": {
+    "status": "done",
+    "file": "28_Tricep_Extension_Machine.jpg",
+    "query": "Tricep Extension Machine"
+  },
+  "id_29": {
+    "status": "done",
+    "file": "29_Seated_Triceps_Press_Machine.jpg",
+    "query": "Seated Triceps Press Machine"
+  },
+  "id_30": {
+    "status": "done",
+    "file": "30_Leg_Press_Machine.jpg",
+    "query": "Leg Press Machine"
+  },
+  "id_31": {
+    "status": "done",
+    "file": "31_Seated_Leg_Press_Machine.jpg",
+    "query": "Seated Leg Press Machine"
+  },
+  "id_32": {
+    "status": "done",
+    "file": "32_V_Squat_Machine.jpg",
+    "query": "V Squat Machine"
+  },
+  "id_33": {
+    "status": "done",
+    "file": "33_Leg_Extension_Machine.jpg",
+    "query": "Leg Extension Machine"
+  },
+  "id_34": {
+    "status": "done",
+    "file": "34_Leg_Curl_Machine.jpg",
+    "query": "Leg Curl Machine"
+  },
+  "id_35": {
+    "status": "done",
+    "file": "35_Lying_Leg_Curl_Machine.jpg",
+    "query": "Lying Leg Curl Machine"
+  },
+  "id_36": {
+    "status": "done",
+    "file": "36_Seated_Leg_Curl_Machine.jpg",
+    "query": "Seated Leg Curl Machine"
+  },
+  "id_37": {
+    "status": "done",
+    "file": "37_Standing_Leg_Curl_Machine.jpg",
+    "query": "Standing Leg Curl Machine"
+  },
+  "id_38": {
+    "status": "done",
+    "file": "38_Hip_Abductor_Machine.jpg",
+    "query": "Hip Abductor Machine"
+  },
+  "id_39": {
+    "status": "done",
+    "file": "39_Hip_Adductor_Machine.jpg",
+    "query": "Hip Adductor Machine"
+  },
+  "id_40": {
+    "status": "done",
+    "file": "40_Seated_Calf_Press_Machine.jpg",
+    "query": "Seated Calf Press Machine"
+  },
+  "id_41": {
+    "status": "done",
+    "file": "41_Smith_Machine.jpg",
+    "query": "Smith Machine"
+  },
+  "id_42": {
+    "status": "done",
+    "file": "42_Squat_Rack.jpg",
+    "query": "Squat Rack"
+  },
+  "id_43": {
+    "status": "done",
+    "file": "43_Abdominal_Crunch_Machine.jpg",
+    "query": "Abdominal Crunch Machine"
+  },
+  "id_44": {
+    "status": "done",
+    "file": "44_Captain_Chair_Abs_Station.jpg",
+    "query": "Captain Chair Abs Station"
+  },
+  "id_45": {
+    "status": "done",
+    "file": "45_Seated_Crunch_Machine.jpg",
+    "query": "Seated Crunch Machine"
+  },
+  "id_46": {
+    "status": "done",
+    "file": "46_Roman_Chair_Hyperextension.jpg",
+    "query": "Roman Chair Hyperextension"
+  },
+  "id_47": {
+    "status": "done",
+    "file": "47_Treadmill.jpg",
+    "query": "Treadmill"
+  },
+  "id_48": {
+    "status": "done",
+    "file": "48_Exercise_Stationary_Bike.jpg",
+    "query": "Exercise Stationary Bike"
+  },
+  "id_49": {
+    "status": "done",
+    "file": "49_Rowing_Machine_cardio.jpg",
+    "query": "Rowing Machine cardio"
+  },
+  "id_50": {
+    "status": "done",
+    "file": "50_Curved_Treadmill.jpg",
+    "query": "Curved Treadmill"
+  },
+  "id_51": {
+    "status": "done",
+    "file": "51_Pull_Up_Bar.jpg",
+    "query": "Pull Up Bar"
+  },
+  "id_52": {
+    "status": "done",
+    "file": "52_Dip_Station.png",
+    "query": "Dip Station"
+  },
+  "id_53": {
+    "status": "done",
+    "file": "53_Assisted_Pull_Up_Machine.jpg",
+    "query": "Assisted Pull Up Machine"
+  },
+  "id_54": {
+    "status": "done",
+    "file": "54_Bodyweight_Training_Area.jpg",
+    "query": "Bodyweight Training Area"
+  },
+  "id_55": {
+    "status": "done",
+    "file": "55_Aerobic_Fitness_Zone.jpg",
+    "query": "Aerobic Fitness Zone"
+  },
+  "id_56": {
+    "status": "done",
+    "file": "56_Cardio_Zone_gym.jpg",
+    "query": "Cardio Zone gym"
+  },
+  "id_57": {
+    "status": "done",
+    "file": "57_Gym_Reception_Counter.jpg",
+    "query": "Gym Reception Counter"
+  },
+  "id_58": {
+    "status": "done",
+    "file": "58_Gym_Vending_Machine.jpg",
+    "query": "Gym Vending Machine"
+  },
+  "id_59": {
+    "status": "done",
+    "file": "59_Gym_Locker_Room.jpg",
+    "query": "Gym Locker Room"
+  }
+}

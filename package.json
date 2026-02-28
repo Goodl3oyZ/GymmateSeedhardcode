@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.5",
+    "playwright": "^1.58.2"
+  }
+}
